@@ -1,0 +1,23 @@
+body {
+    background-color: darkcyan;
+    padding: 50px;
+}
+.moitie {
+    width: 50%;
+    height: 200px;
+    background-color: khaki;
+}
+.petit {
+    width: 150px;
+    height: 50px;
+    background-color: pink;
+}
+#petit-bas {
+    position: relative;
+    top: 150px;
+}
+#grande {
+    height: 300px;
+    background-color:thistle;
+    margin-top: 50px;
+}
