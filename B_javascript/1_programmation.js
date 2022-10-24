@@ -1,6 +1,5 @@
 // add(a, b)
 // mult(a, b)
-// increment(a, b)
 // max(a, b)
 
 // minToSecond(2) // 120
