@@ -1,0 +1,14 @@
+#papy {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    background-color: red;
+    border: 3px solid blue;
+    height: 200px;
+}
+.gosses {
+    margin: 10px;
+    background-color: green;
+    height: 50px;
+    width: 50px;
+}

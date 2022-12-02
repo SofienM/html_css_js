@@ -1,3 +1,5 @@
+## DOM
+
 Compteur - basics byId + innerHTML
 1/ Un bouton qui incrémente un compteur à chaque clic avec console.log
 1-bis/ on affiche dans le paragraphe le compteur
@@ -14,18 +16,17 @@ Checkboxes (fruits) - byClassName
 
 ---
 
-Compter nombres de <li> - byClassName
-
 Highlight bold text - mouseover + style
-
-Afficher full name - input.value
-Un input => affiche juste le prénom
-Deux inputs => afficher le full name dans un paragraphe
 
 ---
 
-Convertisseur - addEventListener("input")
-1/ Convertit euros en dollars
+Afficher full name - input.value
+. Un input => affiche juste le prénom
+. Deux inputs => afficher le full name dans un paragraphe
+
+---
+
+Convertisseur euros/dinars - addEventListener("input")
 
 ---
 
@@ -54,4 +55,12 @@ click sur un des <li> => alert le contenu et son index
 # Niveau 2
 
 Modal
+
+https://codephenix.fr/interface/cours/index.php
+Vérification d'un formulaire
+
+settimeout https://codephenix.fr/interface/cours/index.php
+--> animation écriture (codepen)
+
+Validation des connaissances
 Carousel

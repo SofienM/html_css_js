@@ -1,0 +1,29 @@
+#d {
+    border: 3px solid blue;
+    height: 250px;
+}
+#m {
+    background-color: red;
+    height: 75px;
+    width: 50px;
+}
+#s {
+    display: flex;
+    justify-content: right;
+
+}
+#ss {
+    background-color: red;
+    height: 75px;
+    width: 50px;
+}
+#mm {
+    display: flex;
+    justify-content: center;
+
+}
+#ls {
+    background-color: red;
+    height: 75px;
+    width: 50px;
+}
