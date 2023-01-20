@@ -48,3 +48,11 @@ Variante
 
 Etape4
 des cards
+
+const dataBis = [
+{ company: "CodePhenix", age: 3, city: "Paris", country: "France" },
+{ company: "Blablacar", age: 4, city: "Lille", country: "France" },
+{ company: "Glenans", age: 0, city: "Paris", country: "France" },
+{ company: "BrestCompany", age: 18, city: "Brest", country: "France" },
+{ company: "PTTCompany", age: 0, city: "Paris", country: "France" },
+];
