@@ -1,12 +1,27 @@
 ## DOM
 
+Initiation: onclick
+
+- on change la color et backgroundColor du para
+- on change le message
+
+Baguette magique
+
+- faire disparaitre
+- faire réaparaitre
+
 Compteur - basics byId + innerHTML
 1/ Un bouton qui incrémente un compteur à chaque clic avec console.log
 1-bis/ on affiche dans le paragraphe le compteur
-2/ On ajoute la phrase "Le nombre de click est pair/impair"
-3/ On double: nouveau compteur + nouveau paragraphe
-4/ On passe le texte en vert quand le premier compteur est impair
-5/ On ajoute un bouton qui reset le premier compteur
+
+- On double: nouveau compteur + nouveau paragraphe
+- On ajoute un bouton qui reset le premier compteur
+- On ajoute un bouton qui fait -2
+- Au dessus de 20 => "Vous avez gagné !"
+- En dessous de -5 => "Vous n'êtes peut-être pas fait pour ce jeu !"
+
+- On ajoute la phrase "Le nombre de click est pair/impair"
+- On passe le texte en vert quand le premier compteur est impair
 
 ---
 
