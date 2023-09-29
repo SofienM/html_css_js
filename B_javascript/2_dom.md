@@ -25,12 +25,6 @@ Compteur - basics byId + innerHTML
 
 ---
 
-Checkboxes (fruits) - byClassName
-1/ 3 checkboxes et reset + all avec input.checked = true
-2/ 10 checkboxes => getElementsByClassName
-
----
-
 Highlight bold text - mouseover + style
 
 ---
@@ -42,6 +36,12 @@ Afficher full name - input.value
 ---
 
 Convertisseur euros/dinars - addEventListener("input")
+
+---
+
+Checkboxes (fruits) - byClassName
+1/ 3 checkboxes et reset + all avec input.checked = true
+2/ 10 checkboxes => getElementsByClassName
 
 ---
 
