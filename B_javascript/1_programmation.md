@@ -24,6 +24,10 @@ Manque exo de pseudo code into vrai code
 // printSuite(1, 10) // 1 2 3 4 5 6 7 8 9 10
 // fooBar(10) // 1 2 'foo' 4 5 'foo' 'bar' 8 9 10 ... 20 'foobar' 22
 
+## Niveau 1.5 UNIT TESTS
+
+ajouter tests à tous les exos du dessus
+
 ## Niveau 2
 
 // unique([1, 2, 3, 3, 3, 3, 4, 5]) --> [1, 2, 3, 4, 5]

@@ -56,3 +56,10 @@ const dataBis = [
 { company: "BrestCompany", age: 18, city: "Brest", country: "France" },
 { company: "PTTCompany", age: 0, city: "Paris", country: "France" },
 ];
+
+const dataTer = [
+{name: "Farah", firstname: "Farid", city: "Villetaneuze", img: "https://picsum.photos/200"},
+{name: "", firstname: "Sofien", city: "Paris", img: "https://picsum.photos/200"},
+{name: "Dupont", firstname: "Antoine", city: "&7;pq_", img: "https://picsum.photos/200"},
+{name: "Ntamack", firstname: "", city: "Villetaneuze", img: "https://picsum.photos/200"},
+];
