@@ -36,7 +36,8 @@ ajouter tests à tous les exos du dessus
 # Niveau 3
 
 temperatures déséquilibrées (Ababaacccc)
-plus grands nombres de 0 d'affilés (1000100100001)
+plus grands nombres de 0 d'affilés (1000100100001000000 => réponse 4)
+
 
 ### Exos challenger
 

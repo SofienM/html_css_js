@@ -62,7 +62,7 @@ Un bouton ajoute une ligne dans le tableau => https://www.w3resource.com/javascr
 
 TODOs A faire à un moment
 addEventListener <=> onclick=
-Créer dynamiquement tout un html + leur dire de chercher le doc pour le faire
+Créer dynamiquement tout un html + leur dire de chercher le doc pour le faire => faire travailler createElement
 click sur un des <li> => alert le contenu et son index
 
 ---
